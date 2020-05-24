@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CarRacing
+comment0.text=\n\ This\ car\ racing\ class\ was\ created\ for\ Computer\ Science\ 31\ Project\ D.\ The\ purpose\ \n\ of\ this\ class\ is\ to\ allow\ the\ user\ to\ bet\ accurately\ on\ a\ car\ race,\ based\ on\ the\n\ information\ that\ the\ user\ enters\ for\ each\ car/driver\ participating\ in\ the\ race.\n\ Depending\ on\ what\ the\ user\ is\ willing\ to\ bet,\ the\ program\ will\ calculate\ who\ should\n\ win\ the\ race\ based\ on\ the\ specifications\ of\ each\ of\ the\ cars\ entered,\ and\ will\ display\n\ the\ results\ alongside\ the\ wager\ that\ the\ user\ should\ bet\ on\ each\ car.\n\n\ David\ Agbi\n\ April\ 12,\ 2018\n
+comment1.params=
+comment1.target=CarRacing()
+comment2.params=
+comment2.target=void\ enterCarInRace()
+comment3.params=
+comment3.target=void\ determineBet()
+comment4.params=
+comment4.target=void\ removeCarFromRace()
+comment5.params=
+comment5.target=void\ modifyCarSpecs()
+numComments=6
